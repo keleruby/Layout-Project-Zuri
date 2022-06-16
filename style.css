@@ -17,6 +17,11 @@ main {
   margin: auto;
 }
 
+main button a{
+border:3px solid #fff;
+  background-color:hsl(248, 32%, 49%);
+}
+
 .container {
   width: 100%;
   display: flex;
